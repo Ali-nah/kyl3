@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KYL3</string>
+    <string name="access_token">pk.eyJ1IjoiYWxpbmFzaHJlc3RoYSIsImEiOiJja3k0bGRiZDIwYjZzMzFveXVhMm52Y2xsIn0.tZqtrLCSdSlfgEgglFGayQ</string>
+    <string name="start_navigation">Start Navigation</string>
+
+</resources>
